@@ -2,7 +2,7 @@
 - [Задача 1](#задача-1)
 - [Задача 2](#задача-2)
 - [Задача 3](#задача-3)
-- [Решение](#решение)
+- [Решения](#решения)
 
 
 ## Для прохождения интервью с командой необходимо выполнить следующее тестовое задание:
@@ -111,7 +111,7 @@ if __name__ == '__main__':
 ```
 
 
-### Решение
+### Решения
 Код с решением заданий лежит в соотвествующих файлах:
  - Задание 1: [task1.1.py](https://github.com/joerude/tetrika-test/blob/master/task1.1.py) и [task1.2.py](https://github.com/joerude/tetrika-test/blob/master/task1.2.py)
  - Задание 2: [task2.py](https://github.com/joerude/tetrika-test/blob/master/task2.py).
