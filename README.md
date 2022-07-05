@@ -115,7 +115,8 @@ if __name__ == '__main__':
 Код с решением заданий лежит в соотвествующих файлах:
  - Задание 1: [task1.1.py](https://github.com/joerude/tetrika-test/blob/master/task1.1.py) и [task1.2.py](https://github.com/joerude/tetrika-test/blob/master/task1.2.py)
  - Задание 2: [task2.py](https://github.com/joerude/tetrika-test/blob/master/task2.py).
-    Для работы с API Wikipedia установите необходимые библиотеки `pip install -r requirements.txt`
+    Для работы с API Wikipedia установите необходимые библиотеки 
+    ```pip install -r requirements.txt```
  - Задание 3: [task3.py](https://github.com/joerude/tetrika-test/blob/master/task3.py)
 
 
